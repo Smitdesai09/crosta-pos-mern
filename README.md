@@ -44,8 +44,9 @@ A desktop-focused point-of-sale application built for a café to manage orders, 
 * Nodemailer
 <br>
 
-## About the Project
+## Group Project
 
-Crosta POS was developed as a third-year group project for a specific café by a team of two. Both team members contributed equally to the frontend and backend development.
+MWP was developed as a third-year group project by a team of two:
 
-The application is designed specifically for desktop use and focuses on simplifying café ordering, billing, product management, staff management, and sales tracking.
+* [Smit Desai](https://github.com/smitbdesai)
+* [Rutvik Mistry](https://github.com/Rutvik1546)
