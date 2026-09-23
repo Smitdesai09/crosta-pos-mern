@@ -4,7 +4,7 @@ A desktop-focused point-of-sale application built for a café to manage orders, 
 
 ## Live Demo
 
-[View Live Demo](https://crosta-project-frontend.onrender.com/)
+Live Demo not available, as deployed to Crosta PD² Pizza Shop.
 
 <br>
 
